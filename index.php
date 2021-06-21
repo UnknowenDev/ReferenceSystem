@@ -18,7 +18,7 @@ if ($ref === "") {
     $dbuser = "USERNAME"; //Database username.
     $dbpass = "PASSWORD"; //Database password.
     $dbname = "DATABASE"; //Database name.
-    $dbtable = "References"; //Databases' table name.
+    $dbtable = "ReferencesCollector"; //Databases' table name.
     $columnone = "referenceName"; //Column name you set on your PHPMyAdmin.
     $columntwo = "requestedTimes"; //Second column name.
 
